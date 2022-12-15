@@ -1,6 +1,4 @@
 ```python
-from GitHub import ReadMe
-
 class Human():
     def __init__(self):
         self.username = "atalbayrak"
